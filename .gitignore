@@ -1,0 +1,9 @@
+#file ignored by git
+
+out
+.idea
+*.iml
+*.csv
+OMA_Greedy.jar	
+OMA_Greedy_scripts_and_readme.zip
+
